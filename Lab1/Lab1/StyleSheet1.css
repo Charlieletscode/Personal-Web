@@ -1,0 +1,64 @@
+﻿.content {
+    height: 100%;
+    position: relative;
+}
+
+.container {
+    margin-left: 23%;
+    height: 70em;
+}
+
+a.sidea:link, a.sidea:visited {
+    color: white;
+}
+
+a.sidea:hover {
+    color: gold;
+    cursor: pointer;
+}
+
+a.ca {
+    padding-left: 2em;
+}
+
+a.ca:link, a.ca:visited {
+    color: black;
+}
+
+a.ca:hover {
+    color: gold;
+    cursor: pointer;
+}
+
+a:hover {
+    color: gold;
+    cursor: pointer;
+}
+
+.mystyle {
+    font-family: "Times New Roman";
+    font-size: x-large;
+    font-style: normal;
+    color: black;
+}
+
+.sidebar {
+    width: 20%;
+    position: absolute;
+    left: 0;
+    top: 0;
+    bottom: 2.5em;
+    padding:1%;
+    background: #111111;
+    color: #FFFFFF;
+    height: 100%;
+}
+
+.sidebar a link{
+    color:white;
+}
+
+.logo {
+    width: 80%;
+    padding: 5px
+}
