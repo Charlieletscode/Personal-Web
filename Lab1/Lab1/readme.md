@@ -1,1 +1,1 @@
-[embed]https://github.com/Charlieletscode/Personal-Web/blob/main/Lab1/Lab1/full%20resume.pdf[/embed]
+[embed]https://drive.google.com/file/d/1AYLK3N_smlTktgTKQ6mVy7Gv4kZjgPtd/view?usp=sharing[/embed]
