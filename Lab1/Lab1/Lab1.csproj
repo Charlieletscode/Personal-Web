@@ -69,7 +69,6 @@
     <Content Include="Properties\k.png" />
     <Content Include="Properties\download.png" />
     <Content Include="Properties\j.jpg" />
-    <Content Include="Skills.html" />
     <Content Include="Story.html" />
     <Content Include="StyleSheet1.css" />
     <Content Include="Web.config" />
