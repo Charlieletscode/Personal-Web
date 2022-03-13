@@ -1,7 +1,0 @@
-C:\Users\charl\Desktop\lab2\lab2\bin\lab2.dll.config
-C:\Users\charl\Desktop\lab2\lab2\bin\lab2.dll
-C:\Users\charl\Desktop\lab2\lab2\bin\lab2.pdb
-C:\Users\charl\Desktop\lab2\lab2\obj\Debug\lab2.csproj.AssemblyReference.cache
-C:\Users\charl\Desktop\lab2\lab2\obj\Debug\lab2.csproj.CoreCompileInputs.cache
-C:\Users\charl\Desktop\lab2\lab2\obj\Debug\lab2.dll
-C:\Users\charl\Desktop\lab2\lab2\obj\Debug\lab2.pdb
