@@ -1,0 +1,14 @@
+C:\Users\charl\Desktop\Lab5\Lab5\bin\Lab5.dll.config
+C:\Users\charl\Desktop\Lab5\Lab5\bin\Lab5.dll
+C:\Users\charl\Desktop\Lab5\Lab5\bin\Lab5.pdb
+C:\Users\charl\Desktop\Lab5\Lab5\obj\Debug\Lab5.csproj.AssemblyReference.cache
+C:\Users\charl\Desktop\Lab5\Lab5\obj\Debug\Lab5.csproj.CoreCompileInputs.cache
+C:\Users\charl\Desktop\Lab5\Lab5\obj\Debug\Lab5.dll
+C:\Users\charl\Desktop\Lab5\Lab5\obj\Debug\Lab5.pdb
+C:\Users\charl\Desktop\pre\Lab5\Lab5\bin\Lab5.dll.config
+C:\Users\charl\Desktop\pre\Lab5\Lab5\bin\Lab5.dll
+C:\Users\charl\Desktop\pre\Lab5\Lab5\bin\Lab5.pdb
+C:\Users\charl\Desktop\pre\Lab5\Lab5\obj\Debug\Lab5.csproj.AssemblyReference.cache
+C:\Users\charl\Desktop\pre\Lab5\Lab5\obj\Debug\Lab5.csproj.CoreCompileInputs.cache
+C:\Users\charl\Desktop\pre\Lab5\Lab5\obj\Debug\Lab5.dll
+C:\Users\charl\Desktop\pre\Lab5\Lab5\obj\Debug\Lab5.pdb
