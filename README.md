@@ -1,1 +1,1 @@
-https://htmlpreview.github.io/?https://github.com/Charlieletscode/Personal-Web/blob/mainLab1/Default.htm.html
+https://htmlpreview.github.io/?https://github.com/Charlieletscode/Personal-Web/blob/main/Lab1/Default.htm.html
