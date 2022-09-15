@@ -62,11 +62,12 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Default.htm.html" />
+    <Content Include="Properties\dfd.jpg" />
     <Content Include="Education.html" />
     <Content Include="Hobbies.html" />
     <Content Include="Info.txt" />
-    <Content Include="Properties\j.jpg" />
     <Content Include="Properties\4386875_0.jpg" />
+    <Content Include="Properties\j.jpg" />
     <Content Include="Properties\k.png" />
     <Content Include="Properties\download.png" />
     <Content Include="Story.html" />

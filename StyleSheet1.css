@@ -8,6 +8,16 @@
     height: 70em;
 }
 
+.nature {
+    
+    width: 80%;
+    padding: 5px;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px #999;
+  }
+
 a.sidea:link, a.sidea:visited {
     color: white;
 }
@@ -51,6 +61,7 @@ a:hover {
     padding: 1%;
     background: #111111;
     color: #FFFFFF;
+    height: 100%;
     border-radius: 10px;
 }
 

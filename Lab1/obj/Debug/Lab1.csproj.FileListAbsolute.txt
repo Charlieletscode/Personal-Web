@@ -5,10 +5,10 @@ C:\Users\charl\Desktop\Lab1\Lab1\obj\Debug\Lab1.csproj.AssemblyReference.cache
 C:\Users\charl\Desktop\Lab1\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
 C:\Users\charl\Desktop\Lab1\Lab1\obj\Debug\Lab1.dll
 C:\Users\charl\Desktop\Lab1\Lab1\obj\Debug\Lab1.pdb
-C:\Users\charl\Desktop\new-per-main\new-per-main\Lab1\bin\Lab1.dll.config
-C:\Users\charl\Desktop\new-per-main\new-per-main\Lab1\bin\Lab1.dll
-C:\Users\charl\Desktop\new-per-main\new-per-main\Lab1\bin\Lab1.pdb
-C:\Users\charl\Desktop\new-per-main\new-per-main\Lab1\obj\Debug\Lab1.csproj.AssemblyReference.cache
-C:\Users\charl\Desktop\new-per-main\new-per-main\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
-C:\Users\charl\Desktop\new-per-main\new-per-main\Lab1\obj\Debug\Lab1.dll
-C:\Users\charl\Desktop\new-per-main\new-per-main\Lab1\obj\Debug\Lab1.pdb
+C:\Users\charl\Desktop\Personal-Web-main\Lab1\Lab1\bin\Lab1.dll.config
+C:\Users\charl\Desktop\Personal-Web-main\Lab1\Lab1\bin\Lab1.dll
+C:\Users\charl\Desktop\Personal-Web-main\Lab1\Lab1\bin\Lab1.pdb
+C:\Users\charl\Desktop\Personal-Web-main\Lab1\Lab1\obj\Debug\Lab1.csproj.AssemblyReference.cache
+C:\Users\charl\Desktop\Personal-Web-main\Lab1\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\charl\Desktop\Personal-Web-main\Lab1\Lab1\obj\Debug\Lab1.dll
+C:\Users\charl\Desktop\Personal-Web-main\Lab1\Lab1\obj\Debug\Lab1.pdb
