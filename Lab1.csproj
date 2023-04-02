@@ -61,7 +61,7 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Default.htm.html" />
+    <Content Include="D.html" />
     <Content Include="Properties\dfd.jpg" />
     <Content Include="Education.html" />
     <Content Include="Hobbies.html" />
