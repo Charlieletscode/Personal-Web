@@ -1,75 +1,113 @@
-﻿.content {
-    height: 100%;
-    position: relative;
+﻿/* GLOBAL */
+body {
+    margin: 0;
+    font-family: "Segoe UI", Roboto, sans-serif;
+    background: #f5f6fa;
+    color: #333;
 }
 
-.container {
-    margin-left: 23%;
-    height: 70em;
-}
-
-.nature {
-    
-    width: 80%;
-    padding: 5px;
-    padding: 8px;
-    border: 1px solid #ccc;
-    border-radius: 10px;
-    box-shadow: 10px 10px 10px #999;
-  }
-
-
-a.sidea:link, a.sidea:visited {
-    color: white;
-}
-
-a.sidea:hover {
-    color: gold;
-    cursor: pointer;
-}
-
-a.ca {
-    padding-left: 2em;
-}
-
-a.ca:link, a.ca:visited {
-    color: black;
-}
-
-a.ca:hover {
-    color: gold;
-    cursor: pointer;
+a {
+    text-decoration: none;
+    color: #1e90ff;
 }
 
 a:hover {
-    color: gold;
-    cursor: pointer;
+    text-decoration: underline;
 }
 
-.mystyle {
-    font-family: "Times New Roman";
-    font-size: x-large;
-    font-style: normal;
-    color: black;
+/* PAGE LAYOUT */
+.content {
+    display: flex;
+    min-height: 100vh;
 }
 
+/* SIDEBAR */
 .sidebar {
-    width: 20%;
-    position: absolute;
-    left: 0;
-    top: 0;
-    bottom: 2.5em;
-    padding:1%;
-    background: #111111;
-    color: #FFFFFF;
-    height: 100%;
+    width: 260px;
+    background: #1d1f27;
+    padding: 25px;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
-.sidebar a link{
-    color:white;
+.sidebar img.logo {
+    width: 150px;
+    border-radius: 50%;
+    margin-bottom: 15px;
 }
 
-.logo {
-    width: 80%;
-    padding: 5px
+.sidebar h1 {
+    margin: 10px 0 5px 0;
+    font-size: 22px;
+    color: gold;
+}
+
+.sidea {
+    color: #dcdcdc;
+    font-size: 16px;
+    margin: 8px 0;
+    display: block;
+}
+
+.sidea:hover {
+    color: gold;
+}
+
+.sidebar ul {
+    padding: 0;
+    list-style: none;
+    width: 100%;
+    margin-top: 15px;
+}
+
+.sidebar li {
+    margin: 8px 0;
+    font-size: 15px;
+}
+
+.nature {
+    margin-top: auto;
+    max-width: 100%;
+    border-radius: 10px;
+}
+
+/* MAIN CONTENT */
+.container {
+    flex: 1;
+    padding: 40px;
+}
+
+/* SECTION TITLES */
+.container h1 {
+    font-size: 32px;
+    margin-bottom: 10px;
+    color: #222;
+}
+
+.container h2 {
+    color: #444;
+    margin-top: 40px;
+}
+
+/* PROJECT CARDS */
+.project-card {
+    background: #fff;
+    padding: 20px;
+    margin: 25px 0;
+    border-radius: 12px;
+    box-shadow: 0 4px 18px rgba(0,0,0,0.08);
+}
+
+.project-card h1 {
+    margin-top: 0;
+}
+
+.project-card iframe {
+    width: 100%;
+    max-width: 800px;
+    height: 360px;
+    border-radius: 8px;
+    border: none;
 }
